@@ -1,0 +1,129 @@
+{
+    "name": "Akhil Vempali",
+    "position": "Machine Learning Engineer / Data Scientist",
+    "contactInformation": "+1-437-299-4924",
+    "email": "vempaliakhil96@gmail.com",
+    "address": "Toronto, ON",
+    "profilePicture": "",
+    "socialMedia":
+    [
+        {
+            "socialMedia": "Github",
+            "link": "github.com/vempaliakhil96"
+        },
+        {
+            "socialMedia": "LinkedIn",
+            "link": "linkedin.com/in/akhil-vempali"
+        },
+        {
+            "socialMedia": "twitter",
+            "link": "twitter.com/akhilvempali96"
+        }
+    ],
+    "summary": "With 5+ years in hands-on development, I offer expertise in building sustainable software tools, leveraging Python, and working with Large Language Models (LLMs). Proficient in modern engineering processes, I contribute to technical architecture, design, and documentation. Experienced in automation frameworks and test-driven development.",
+    "education":
+    [
+        {
+            "school": "Bachelor of Engineering",
+            "degree": "Netaji Subhas Institute of Technology",
+            "startYear": "2014-08-20",
+            "endYear": "2018-06-01"
+        }
+    ],
+    "workExperience":
+    [
+        {
+            "company": "Netomi",
+            "position": "Data Scientist - II",
+            "description": "",
+            "keyAchievements": "Achieved the development of an LLM serving framework with the capability to host both OSS LLMs and PEFT finetuned LLMs on a GPU cloud cluster. This accomplishment resulted in a significant reduction in the time required to deploy LLMs, decreasing it from 1 week to just 15 minutes.\nAchieved the creation of tooling for converting LLMs to GPT-Q quantisation, leading to a 50% reduction in model infrastructure requirements. This accomplishment was measured by maintaining the same inference throughput.\nDeveloped a Langchain-based LLM inference framework, central to most deployed LLM applications in our production systems. This framework monitors costs, logs LLM input/output, and serves as training data based on human feedback\nCore maintainer of all the data science services and repositories at Netomi, highlight repository being a knowledge base service that powers all of Netomi's Generative AI applications",
+            "startYear": "2023-04-02",
+            "endYear": ""
+        },
+        {
+            "company": "",
+            "position": "Data Scientist - I",
+            "description": "",
+            "keyAchievements": "Rearchitected the bot training service, which enabled the platform to train multiple models at once by moving the training jobs to AWS batch. This resulted in a cost reduction of 90% while also achieving training parallelism.\nMoved all DS applications from dedicated hosts to container orchestrated platforms which reduced the cost of hosting by 50% and also helped us achieve autoscaling of services.\nIntroduced inference caching in distributed key-value store (Redis) which improved inference latency for cached calls by 98% with inference times reaching to as low as 50 milliseconds",
+            "startYear": "2021-10-02",
+            "endYear": "2023-04-02"
+        },
+        {
+            "company": "",
+            "position": "Software Engineer",
+            "description": "",
+            "keyAchievements": "Developed a datetime library for Netomi's NLU service which improved accuracy of date detection by 28% and added new detection patterns that were previously not present.\nDeveloped a churn analysis dashboard to analyse the human handoff cases by bot, helped the customer success team determine areas of improvement for the bot.",
+            "startYear": "2019-07-02",
+            "endYear": "2021-09-02"
+        },
+        {
+            "company": "Fractal Analytics",
+            "position": "Consultant",
+            "description": "",
+            "keyAchievements": "Designed and engineered automated data pipelines based on client requirements, and developed an automation tool for automating dashboard creation and data validation for business users.\nBuilt an automation tool for automating dashboard creation and data validation for business users.",
+            "startYear": "2018-06-02",
+            "endYear": "2019-07-02"
+        }
+    ],
+    "projects":
+    [],
+    "skills":
+    [
+        {
+            "title": "Technical Skills",
+            "skills":
+            [
+                "Python",
+                "FastAPI",
+                "Flask",
+                "PyTorch",
+                "Transformers",
+                "Data Structures and Algorithms",
+                "Redis",
+                "Elasticsearch",
+                "SQL",
+                "NoSQL",
+                "Kafka",
+                "AWS",
+                "Docker",
+                "VIM",
+                "Pandas",
+                "Numpy",
+                "Asyncio",
+                "BeautifulSoup",
+                "HTML",
+                "Terraform",
+                "Linux",
+                "CUDA",
+                "Langchain"
+            ]
+        },
+        {
+            "title": "Soft Skills",
+            "skills":
+            [
+                "Collaboration",
+                "Problem-solving",
+                "Communication",
+                "Time management",
+                "Result-oriented"
+            ]
+        },
+        {
+            "title": "Additional Skills",
+            "skills":
+            [
+                "Research",
+                "Writing",
+                "Public Speaking"
+            ]
+        }
+    ],
+    "languages":
+    [],
+    "certifications":
+    [
+        "Deep Learning for Coders (fast.ai)",
+        "Stanford CS 221 N"
+    ]
+}
