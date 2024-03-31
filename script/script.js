@@ -18,7 +18,7 @@ function textToBulletList(text) {
 
 async function fetchResumeData() {
     try {
-        const response = await fetch('ats_resume.json');
+        const response = await fetch('./ats_resume.json');
         const data = await response.json();
         const resumeData = JSON.parse(JSON.stringify(data));
         const socialMedia = resumeData.socialMedia;
