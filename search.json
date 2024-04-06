@@ -11,13 +11,20 @@
     "href": "index.html#experience",
     "title": "Akhil Vempali",
     "section": "Experience",
-    "text": "Experience\n\nNetomi\n\n\nFractal Analytics"
+    "text": "Experience\n\nNetomi\nSince July’19 I have been working at Netomi as an ML Engineer and a Data Scientist. It has been a wonderful experience with great teammates and mentors I got the opportunity to learn a lot about software engineering, data science and machine learning. Some of my key skills I picked up at Netomi are\n\nWorking with Open Source LLMs and optimising them using SOTA techniques.\nWorking with LLM frameworks to develop great products\nDeveloping enterprise grade services utilising LLMs and similar scale models to serve high volume traffic.\n\n\n\nFractal Analytics\nThis was my first job out of university! Here I worked as a consultant, I worked with visualising and transforming huge volumes of data for major Fortune 500 companies."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Akhil Vempali",
+    "section": "Skills",
+    "text": "Skills\nHere are some of the skills that I’m proficient in, in no specific order.\n\n\nPython\nHTML\nCSS\nFastAPI\nFlask\nPyTorch\nTransformers\nData Structures and Algorithms\nRedis\nElasticsearch\nSQL\nNoSQL\nKafka\nAWS\nDocker\nvim\nPandas\nNumpy\nasyncio\nBeautifulSoup\nTerraform\nLinux\nLangchain"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Akhil Vempali",
     "section": "Education",
-    "text": "Education\n\nBachelor of Engineering\n\nNetaji Subhas Institute of Technology (NSIT)"
+    "text": "Education\n\n Netaji Subhas Institute of Technology, Delhi\n\nBachelor of Engineering (BE)"
   }
 ]
