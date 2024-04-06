@@ -1,0 +1,9 @@
+repos:
+- repo: local
+  hooks:
+  - id: quarto-publish
+    name: Run Quarto Publish
+    entry: quarto publish
+    language: system
+    pass_filenames: false
+    stages: [commit]
