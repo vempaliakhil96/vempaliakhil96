@@ -2,6 +2,7 @@
 title: "Akhil Vempali"
 about:
   template: solana
+  image-width: 7em
   image: assets/profile.jpg
   links:
     - icon: linkedin
