@@ -2,25 +2,62 @@
 title: "Akhil Vempali"
 about:
   template: solana
-  image: profile.jpg
+  image: assets/profile.jpg
   links:
     - icon: linkedin
-      text: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/akhil-vempali/
     - icon: github
       text: Github
       href: https://github.com/vempaliakhil96
 ---
 
-Hi! I'm Akhil. I'm a Machine Learning Engineer working with LLMs. 
+Hi! I'm Akhil. I'm a Machine Learning Engineer working with LLMs.
 
 ## Experience
 
 ### Netomi
 
+Since July'19 I have been working at [Netomi](https://www.netomi.com/) as an ML Engineer and a Data Scientist. It has been a wonderful experience with great teammates and mentors I got the opportunity to learn a lot about software engineering, data science and machine learning. Some of my key skills I picked up at Netomi are
+
+- Working with Open Source LLMs and optimising them using SOTA techniques.
+- Working with LLM frameworks to develop great products
+- Developing enterprise grade services utilising LLMs and similar scale models to serve high volume traffic.
+
 ### Fractal Analytics
 
-## Education
+This was my first job out of university! Here I worked as a consultant, I worked with visualising and transforming huge volumes of data for major Fortune 500 companies.
 
-### Bachelor of Engineering
-#### Netaji Subhas Institute of Technology (NSIT)
+## Skills
+
+Here are some of the skills that I'm proficient in, in no specific order.
+
+::: {.skill-container}
+- Python
+- HTML
+- CSS
+- FastAPI
+- Flask
+- PyTorch
+- Transformers
+- Data Structures and Algorithms
+- Redis
+- Elasticsearch
+- SQL
+- NoSQL
+- Kafka
+- AWS
+- Docker
+- vim
+- Pandas
+- Numpy
+- asyncio
+- BeautifulSoup
+- Terraform
+- Linux
+- Langchain
+:::
+
+## Education
+### ![NSIT](assets/Netaji_Subhas_University_of_Technology.svg) Netaji Subhas Institute of Technology, Delhi
+#### Bachelor of Engineering (BE)

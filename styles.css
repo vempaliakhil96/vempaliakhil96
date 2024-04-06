@@ -1,1 +1,19 @@
 /* css styles */
+.skill-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skill-container li {
+    display: inline-block;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 0.3em 0.6em;
+    border-radius: 1em;
+    margin: 0.2em;
+    font-size: 0.9em;
+}
+
+img[alt=NSIT] {
+    width: 25px;
+}

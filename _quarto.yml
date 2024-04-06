@@ -3,10 +3,6 @@ project:
 
 website:
   title: "Akhil Vempali"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
 
 format:
   html:
